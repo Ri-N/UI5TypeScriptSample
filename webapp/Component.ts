@@ -1,5 +1,4 @@
 import UIComponent from "sap/ui/core/UIComponent";
-import JSONModel from "sap/ui/model/json/JSONModel";
 
 /**
  * @namespace your.name
