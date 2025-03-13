@@ -5,7 +5,7 @@
 * Clone Repo
 
 ```
-https://github.com/Ri-N/UI5TypeScriptSample.git
+git clone https://github.com/Ri-N/UI5TypeScriptSample.git
 ```
 
 * Install dependencies
